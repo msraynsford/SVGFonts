@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <font id="DEPCatAlphabet" horiz-adv-x="7">
+    <font-face
+    font-family="DEP Cat Alphabet"
+    units-per-em="10"
+    ascent="8"
+    descent="-2"
+    cap-height="5"
+    x-height="3"
+    />
+      <missing-glyph horiz-adv-x="7" />
+      <glyph unicode="A" glyph-name="A" d="M4,7 l-1,1 h-1 l-1,-1 v-7 h-1 l2,2 h1 l2,-2 h-1 v4 l1,1 v2 l-1,-1 l-1,1 v-2 l1,-1 h-2 l-1,1"/>
+      <glyph unicode="B" glyph-name="B" d="M3,8 l1,-1 v-2 l-1,-1 h1 l1-1 v-2 l-1,-1 h-4 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 M1,0 v3"/>
+      <glyph unicode="C" glyph-name="C" d="M5,7 l-1,1 h-3 l-1,-1 v-6 l1,-1 h3 l1,1 h-3 v5 l-1,1 h-1 M1,4 v-3 l1,-1 M2,3 l1,1 v-1 l1,-1 v-1"/>
+      <glyph unicode="D" glyph-name="D" d="M3,8 l2,-2 v-4 l-2,-2 h-3 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 M1,0 v3"/>
+      <glyph unicode="E" glyph-name="E" d="M5,7 l-1,1 h-2 l-2,-2 v-5 l1,-1 h3 l-1,1 h-1 l-1,1 h3 v1 l-1,1 v1 l-1,-1 v-2 M2,3 l-1,1 v1 l-1,1 M1,1 l1-1"/>
+      <glyph unicode="F" glyph-name="F" d="M5,7 l-1,1 h-2 l-2,-2 v-6 h1 l-1,1 l2,2 h2 v1 l-1,1 v1 l-1,-1 v-2 l-1,1 v1 l-1,1"/>
+      <glyph unicode="G" glyph-name="G" d="M5,6 v1 l-1,1 h-3 l-1,-1 v-6 l1,-1 h3 l-2,2 v4 l-1,1 h-1 M1,4 v-3 l1,-1 M3,1 l1,1 v2 l-1,-1 l-1,1 v-2"/>
+      <glyph unicode="H" glyph-name="H" d="M5,8 l-1,-1 v-7 h1 l-1,1 M1,1 l-1,-1 h1 v5 l1,1 v2 l-1,-1 l-1,1 v-2 l1,-1 h2 l1,1 M1,2 l1,1 h1 l1-1"/>
+      <glyph unicode="I" glyph-name="I" horiz-adv-x="4" d="M0,0 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 h-2 M1,0 v3"/>
+      <glyph unicode="J" glyph-name="J" d="M3,0 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 h-4 l-1,1 v1 l1,1 M4,0 v3"/>
+      <glyph unicode="K" glyph-name="K" d="M0,8 v-8 h1 l-1,1 l3,3 v3 l1,1 v-1 l1,-1 v-1 h-3 l-1,-1 l-1,1 M2,3 l3,-3 h-1 v1"/>
+      <glyph unicode="L" glyph-name="L" d="M5,1 l-1,-1 h-4 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 M1,0 v3"/>
+      <glyph unicode="M" glyph-name="M" horiz-adv-x="9" d="M1,1 l-1,-1 h1 v5 l1,1 v2 l-1,-1 l-1,1 v-2 l1,-1 M1,4 l1,1 h1 l1,-1 v-4 h-1 l1,1 M4,2 l-1,1 h-1 l-1,-1 M4,4 l1,1 l1,-1 v-3 l1,-1"/>
+      <glyph unicode="N" glyph-name="N" d="M1,1 l-1,-1 h1 v5 l1,1 v2 l-1,-1 l-1,1 v-2 l4,-4 M1,3 l2,-2 h1 l1,-1 h-1 v7 l1,1"/>
+      <glyph unicode="O" glyph-name="O" d="M0,2 v5 l1,1 h3 l1,-1 v-6 l-1,-1 h-3 l-1,1 h3 v5 l1,1 h1 M1,1 v1 l1,1 v1 l1,-1 M3,0 l1,1 v3"/>
+      <glyph unicode="P" glyph-name="P" d="M0,0 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 h-2 M1,0 v3 M2,3 h2 l1,1 v3 l-1,1 h-1"/>
+      <glyph unicode="Q" glyph-name="Q" horiz-adv-x="9" d="M7,0 l-2,2 v5 l-1,1 h-3 l-1,-1 v-6 l1,-1 h3 l1,1 h-3 v5 l-1,1 h-1 M1,4 v-3 l1,-1 M2,3 l1,1 v-1 l1,-1 v-1"/>
+      <glyph unicode="R" glyph-name="R" horiz-adv-x="8" d="M1,1 l-1,-1 h1 v5 l1,1 v2 l-1,-1 l-1,1 v-2 l6,-6 h-1 v1 h-2 l-2,2 M3,3 h1 l1,1 v3 l-1,1 h-1"/>
+      <glyph unicode="S" glyph-name="S" horiz-adv-x="8" d="M4,6 l1,1 l-1,1 h-2 l-1,-1 v-1 l1,-1 h2 l2,-2 v-2 l-1,-1 h-4 l-1,1 h3 l2,2 h1 M3,1 v2 l-1,1 v-1 l-1-1 v-1 M4,0 l1,1 v1"/>
+      <glyph unicode="T" glyph-name="T" horiz-adv-x="8" d="M0,7 l1,1 h4 l1,-1 l-1,-1 l-1,1 h-1 v-2 l1,1 v-2 l-2,-2 v-1 l-1,-1 h4 l-1,1 v1 l-2,2 v2 l1,-1 M3,2 v-2"/>
+      <glyph unicode="U" glyph-name="U" d="M3,0 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 h-3 l-1,1 v7 h-1 M4,0 v3"/>
+      <glyph unicode="V" glyph-name="V" d="M3,0 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 h-2 l-3,6 v2 h1 M4,0 v3"/>
+      <glyph unicode="W" glyph-name="W" horiz-adv-x="8" d="M5,7 l1,-1 v-6 l-2,2 l-2,-2 h-2 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 M1,0 v3"/>
+      <glyph unicode="X" glyph-name="X" horiz-adv-x="8" d="M5,8 l1,-1 v-1 l-6,-6 h1 v5 l1,1 v2 l-1,-1 l-1,1 v-2 l6,-6 h-1 v1"/>
+      <glyph unicode="Y" glyph-name="Y" horiz-adv-x="8" d="M5,8 l1,-1 l-3,-3 l-1,1 h-2 v1 l1,1 v1 l1,-1 v-4 l1,-2 l1,-1 h-2 l1,1 l1,2 v2 M3,3 v-3"/>
+      <glyph unicode="Z" glyph-name="Z" horiz-adv-x="8" d="M0,8 h4 l1,-1 l-5,-5 v-1 l1,-1 h4 l1,1 h-3 l-2,2 M1,2 v-1 l1,-1 M3,1 v2 l1,1 v-1 l1,-1 v-1"/>
+      <glyph unicode="!" glyph-name="CatHead" d="M0,0 l1,1 v2 l-1,-1 l-1,1 v-2 l1,-1"/>
+      <glyph unicode="#" glyph-name="Cat" d="M0,0 l1,1 l-1,2 v1 l2,2 v2 l-1,-1 l-1,1 v-2 l2,-2 v-1 l-1,-2 l1,-1 M1,0 v3"/>
+    </font>
+  </defs>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <font id="DEPNorse" horiz-adv-x="7">
+    <font-face
+    font-family="DEP Norse"
+    units-per-em="10"
+    ascent="8"
+    descent="-2"
+    cap-height="5"
+    x-height="3"
+    />
+      <missing-glyph horiz-adv-x="4" />
+      <glyph unicode="A" glyph-name="A" d="M0,0 l2,8 l2,-8 M0,2 l4,2"/>
+      <glyph unicode="B" glyph-name="B" d="M0,0 l4,2 l-4,2 l4,2 l-4,2 M1,0 v8"/>
+      <glyph unicode="C" glyph-name="C" d="M4,8 l-4,-4 l4,-4"/>
+      <glyph unicode="D" glyph-name="D" d="M0,0 l4,4 l-4,4 M1,0 v8"/>
+      <glyph unicode="E" glyph-name="E" d="M4,8 l-4,-4 l4,-4 M0,4 h4"/>
+      <glyph unicode="F" glyph-name="F" d="M0,4 l4,2 M0,6 l4,2 M1,0 v8"/>
+      <glyph unicode="G" glyph-name="G" d="M4,8 l-4,-4 l4,-4 v4"/>
+      <glyph unicode="H" glyph-name="H" d="M0,0 v8 M4,0 v8 M0,2 l4,2"/>
+      <glyph unicode="I" glyph-name="I" d="M0,0 l4,2 M0,6 l4,2 M2,0 v8"/>
+      <glyph unicode="J" glyph-name="J" d="M0,6 l4,2 M0,4 l2,-4 v8"/>
+      <glyph unicode="K" glyph-name="K" d="M4,8 l-4,-4 l4,-4 M1,0 v8"/>
+      <glyph unicode="L" glyph-name="L" d="M0,8 v-8 l4,2"/>
+      <glyph unicode="M" glyph-name="M" d="M0,0 v8 l4,-4 M4,0 v8 l-4,-4"/>
+      <glyph unicode="N" glyph-name="N" d="M0,0 v8 M4,8 v-8 M0,6 l4,-4"/>
+      <glyph unicode="O" glyph-name="O" d="M0,4 l2,4 l2,-4 l-2,-4 l-2,4"/>
+      <glyph unicode="P" glyph-name="P" d="M0,8 l4,-2 l-4,-2 M1,0 v8 "/>
+      <glyph unicode="Q" glyph-name="Q" d="M0,4 l2,4 l2,-4 l-2,-4 l-2,4 M2,4 l2,-4"/>
+      <glyph unicode="R" glyph-name="R" d="M0,8 l4,-2 l-4,-2 l4,-4 M1,0 v8"/>
+      <glyph unicode="S" glyph-name="S" d="M0,0 l4,2 l-4,4 l4,2"/>
+      <glyph unicode="T" glyph-name="T" d="M0,6 l4,2 M2,8 v-8"/>
+      <glyph unicode="U" glyph-name="U" d="M0,8 v-8 l4,2 M3,0 v8"/>
+      <glyph unicode="V" glyph-name="V" d="M0,8 l2,-8 l2,8"/>
+      <glyph unicode="W" glyph-name="W" d="M0,0 l2,8 l2,-8 M0,8 l2,-8 l2,8"/>
+      <glyph unicode="X" glyph-name="X" d="M0,0 l4,8 M0,4 l4,-4"/>
+      <glyph unicode="Y" glyph-name="Y" d="M0,8 l4,-4 M0,0 l4,8"/>
+      <glyph unicode="Z" glyph-name="Z" d="M0,6 l4,2 l-4,-8 l4,2"/>
+    </font>
+  </defs>
+</svg>
