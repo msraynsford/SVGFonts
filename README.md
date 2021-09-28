@@ -14,13 +14,13 @@ This font was used in [Loki's box of tricks](https://www.kickstarter.com/project
 This font was used in [The Antikythera Tablets](https://www.donteatpuzzles.com/tablets), it's a simple conversion to English (aplha = 'a') and some liberties taken with the missing characters.
 
 
-#DEPSemaphore
+# DEPSemaphore
 
 ![DEP Semaphore Example](/DEPSemaphore.png)
 
 A stick version of [Flag Semaphore](https://en.wikipedia.org/wiki/Flag_semaphore), it's easily recognised and a great way to make a simple code
 
-#DEPClockSemaphore
+# DEPSemaphoreClock
 
 ![DEP Semaphore Clock Example](/DEPSemaphoreClock.png)
 
