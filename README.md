@@ -1,7 +1,7 @@
 # SVGFonts
 SVG fonts are very handy for laser cutting because they can be used to create outlines of letters instead of filled shapes. These can be laser cut much faster than standard fonts and look neater. Here is a growing collection of fonts I've created for my own projects.
 
-#DEPNorse
+# DEPNorse
 
 ![DEP Norse Example](/DEPNorse.png)
 
