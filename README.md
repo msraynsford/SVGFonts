@@ -11,7 +11,7 @@ This font was used in [Loki's box of tricks](https://www.kickstarter.com/project
 
 ![DEP Greek Example](/DEPGreek.png)
 
-This font was used in [The Antikythera Tablets](https://www.donteatpuzzles.com/tablets), it's a simple conversion to English (aplha = 'a') and some liberties taken with the missing characters.
+This font was used in [The Antikythera Tablets](https://www.donteatpuzzles.com/tablets), it's a simple conversion to English (alpha = 'a') and some liberties taken with the missing characters.
 
 
 # DEPSemaphore
